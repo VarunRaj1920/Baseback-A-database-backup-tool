@@ -17,5 +17,5 @@
     "azure": {
       "connection_string": "your_azure_connection_string"
     },
-    "slack_webhook": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
+    "slack_webhook": "https://hooks.slack.com/services/  "
   }
